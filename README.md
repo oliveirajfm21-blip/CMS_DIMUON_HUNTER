@@ -67,7 +67,7 @@ Full numbers: [`results/validation.txt`](results/validation.txt).
 
 ### 3D event display
 
-![J/psi event display](figures/event_display_jpsi.png)
+![img.png](img.png)
 
 Each run picks a **random J/ψ candidate** and draws it in an interactive page:
 
