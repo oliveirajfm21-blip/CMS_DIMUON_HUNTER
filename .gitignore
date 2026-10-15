@@ -1,0 +1,6 @@
+data/
+Data/
+.venv/
+__pycache__/
+.idea/
+*.bak

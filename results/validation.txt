@@ -1,0 +1,6 @@
+[pT, eta, phi (massless)] mean |dM| = 0.02881 GeV, max |dM| = 71.63441 GeV, mean relative = 7.13e-03
+[four-vector (exact)] mean |dM| = 0.00037 GeV, max |dM| = 0.82920 GeV, mean relative = 3.52e-04
+Events with |M_calc - M| > 1 GeV: 371
+Muon 1: pt inconsistent with px, py in 2834 events (2.8%)
+Muon 2: pt inconsistent with px, py in 3154 events (3.2%)
+Events with negative M^2 (dropped): 1
